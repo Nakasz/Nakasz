@@ -18,25 +18,44 @@ I have developed many successful sites so far with mentioned skills.
 ---
 
 <div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
 
-### Languages
-[![JS][JavaScriptBadge]][JavaScriptHome]
-[![Node][NodejsBadge]][NodejsHome]
-[![CPP][CppBadge]][CppHome]
+    <!-- Language badges -->
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&labelColor=000" alt="JS" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&style=flat-square&labelColor=000" alt="Node" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/C++-3178C6?logo=cplusplus&style=flat-square&labelColor=000" alt="CPP" />
+    </span>
 
-### Environment
-[![NeoVim][NeoVimBadge]][NeoVimHome]
+    <!-- Environment badges -->
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Env:-red?style=flat-square" alt="Env" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/NeoVim-57A143?logo=neovim&style=flat-square&labelColor=000" alt="NeoVim" />
+    </span>
 
-### Frameworks
-[![Vuejs][VuejsBadge]][VuejsHome]
-[![Vite][ViteBadge]][ViteHome]
-[![Boost][BoostBadge]][BoostHome]
+    <!-- Framework badges -->
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=flat-square&labelColor=000" alt="Vuejs" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&style=flat-square&labelColor=000" alt="Vite" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Boost-AC6515?logo=Boost&style=flat-square&labelColor=000" alt="Boost" />
+    </span>
 
-### Study
-[![Rust][RustBadge]][RustHome]
-
+    <!-- Study badges -->
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Rust-fff?logo=Rust&style=flat-square&labelColor=000" alt="Rust" />
+    </span>
+  </div>
 </div>
-
 
 ![github contribution grid snake animation](./yok//github-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](./yok/github-snake.svg#gh-light-mode-only)
