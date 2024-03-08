@@ -6,7 +6,7 @@ I have developed many successful sites so far with mentioned skills.
 **If**
 
 <a href="https://github.com/XianyaoYu">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Nakasz&mode=weekly" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Nakasz&mode=weekly" />
 </a>
 
 ---
