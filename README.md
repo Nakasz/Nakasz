@@ -19,8 +19,6 @@ I have developed many successful sites so far with mentioned skills.
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-
-    <!-- Language badges -->
     <span style="margin: 5px;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&labelColor=000" alt="JS" />
     </span>
@@ -31,7 +29,9 @@ I have developed many successful sites so far with mentioned skills.
       <img src="https://img.shields.io/badge/C++-3178C6?logo=cplusplus&style=flat-square&labelColor=000" alt="CPP" />
     </span>
 
-    <!-- Environment badges -->
+  </div>
+
+  <div style="margin-top: 10px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <span style="margin: 5px;">
       <img src="https://img.shields.io/badge/Env:-red?style=flat-square" alt="Env" />
     </span>
@@ -39,7 +39,12 @@ I have developed many successful sites so far with mentioned skills.
       <img src="https://img.shields.io/badge/NeoVim-57A143?logo=neovim&style=flat-square&labelColor=000" alt="NeoVim" />
     </span>
 
-    <!-- Framework badges -->
+  </div>
+
+  <div style="margin-top: 10px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Frameworks:-red?style=flat-square" alt="Frameworks" />
+    </span>
     <span style="margin: 5px;">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=flat-square&labelColor=000" alt="Vuejs" />
     </span>
@@ -50,7 +55,33 @@ I have developed many successful sites so far with mentioned skills.
       <img src="https://img.shields.io/badge/Boost-AC6515?logo=Boost&style=flat-square&labelColor=000" alt="Boost" />
     </span>
 
-    <!-- Study badges -->
+  </div>
+
+  <div style="margin-top: 10px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+
+  <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Study:-red?style=flat-square" alt="Study" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Rust-fff?logo=Rust&style=flat-square&labelColor=000" alt="Rust" />
+    </span>
+
+  </div>
+</div>
+    <img src="https://img.shields.io/badge/Env:-red?style=flat-square" alt="Env" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/NeoVim-57A143?logo=neovim&style=flat-square&labelColor=000" alt="NeoVim" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=flat-square&labelColor=000" alt="Vuejs" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&style=flat-square&labelColor=000" alt="Vite" />
+    </span>
+    <span style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Boost-AC6515?logo=Boost&style=flat-square&labelColor=000" alt="Boost" />
+    </span>
     <span style="margin: 5px;">
       <img src="https://img.shields.io/badge/Rust-fff?logo=Rust&style=flat-square&labelColor=000" alt="Rust" />
     </span>
