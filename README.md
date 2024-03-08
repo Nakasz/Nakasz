@@ -2,19 +2,14 @@
 Hi, I'm Naka Rhythm, a Blockchain and Cryptocurrency Developer, currently, I have experience with Blockchain, Solana, and DEFI. I develop website using React.js, Next.js, Node.js, web3.js and Laravel.
 I have developed many successful sites so far with mentioned skills.
 
-**欢迎！**
-![](https://count.getloli.com/get/@:XianyaoYu?theme=rule34)
-**访客。**
-
 <a href="https://github.com/XianyaoYu">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=XianyaoYu&mode=weekly" />
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Nakasz&mode=weekly" />
 </a>
-
 
 ---
 
-- [Xiányáo\'s Blog](#)
-- 清风皓月，光景常新。
+- [Naka Rhythm\'s Blog](https://stuckcode.com)
+- Punk Essentials
 
 ---
 
