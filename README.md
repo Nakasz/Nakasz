@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Naka Rhythm, a Blockchain and Cryptocurrency Developer, currently, I have experience with Blockchain, Solana, and DEFI. I develop website using React.js, Next.js, Node.js, web3.js and Laravel.
+Hi, I'm Naka Rhythm, a Blockchain and Cryptocurrency Developer, currently, I have experience with Blockchain and Solana. I develop website using React.js, Next.js, Node.js, web3.js and Laravel.
 I have developed many successful sites so far with mentioned skills.
 
 **What?**
